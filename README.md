@@ -12,11 +12,10 @@ Job-search command center for tracking applications, follow-ups, resume versions
 ### [Site Health Monitor](https://github.com/jawshfn/site-health-monitor)
 Website health monitor with live checks, response history, CI, and a React/FastAPI dashboard.
 
-### [NeonCity](https://github.com/jawshfn/NeonCity)
-React incremental city-building game built with Redux Toolkit, React Router, GSAP, and GitHub Pages.
+### RBLang
+Ruby-like interpreter built in Ruby with a lexer, recursive-descent parser, AST evaluator, CLI runner, examples, tests, documentation, and GitHub Actions CI.
 
 ## Current Focus
 
 - Building Career Pipeline into a more complete full-stack product
 - Improving testing, documentation, and deployment workflows
-- Cleaning up and publishing selected CS projects, including a Ruby-like interpreter
