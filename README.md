@@ -1,8 +1,8 @@
 # Joshua Nunez
 
-CS graduate working with React, FastAPI, Python, and JavaScript.
+Computer Science graduate working with React, FastAPI, Python, and JavaScript.
 
-I’m currently building full-stack web projects while continuing to draw on coursework in software engineering, databases, networking, systems programming, algorithms, interaction design, and programming languages.
+I’m currently building full-stack web projects and continuing to apply coursework in software engineering, databases, networking, systems programming, algorithms, interaction design, and programming languages.
 
 ## Featured Projects
 
