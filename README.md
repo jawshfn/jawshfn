@@ -12,7 +12,7 @@ Job-search command center for tracking applications, follow-ups, resume versions
 ### [Site Health Monitor](https://github.com/jawshfn/site-health-monitor)
 Website health monitor with live checks, response history, CI, and a React/FastAPI dashboard.
 
-### RBLang
+### [RBLang](https://github.com/jawshfn/rblang)
 Ruby-like interpreter built in Ruby with a lexer, recursive-descent parser, AST evaluator, CLI runner, examples, tests, documentation, and GitHub Actions CI.
 
 ## Current Focus
