@@ -13,7 +13,7 @@ Job-search command center for tracking applications, follow-ups, resume versions
 Website health monitor with live checks, response history, CI, and a React/FastAPI dashboard.
 
 ### [RBLang](https://github.com/jawshfn/rblang)
-Ruby-like interpreter built in Ruby with a lexer, recursive-descent parser, AST evaluator, CLI runner, examples, tests, documentation, and GitHub Actions CI.
+Ruby-like interpreter in Ruby featuring a lexer, recursive-descent parser, AST evaluator, CLI runner, examples, tests, docs, and CI.
 
 ## Current Focus
 
