@@ -1,21 +1,25 @@
 # Joshua Nunez
 
-Computer Science graduate working with React, FastAPI, Python, and JavaScript.
+Computer Science graduate and full-stack developer building practical web products with React, FastAPI, Python, and JavaScript.
 
-I’m currently building full-stack web projects and continuing to apply coursework in software engineering, databases, networking, systems programming, algorithms, interaction design, and programming languages.
+I focus on product-minded development: creating accessible interfaces, reliable APIs, useful data workflows, automated tests, and clear technical documentation.
 
 ## Featured Projects
 
-### [Career Pipeline](https://github.com/jawshfn/career-pipeline)
-Job-search command center for tracking applications, follow-ups, resume versions, red flags, and hiring progress.
+### [PursuitHQ](https://github.com/jawshfn/career-pipeline) · [Live Demo](https://jawshfn.github.io/career-pipeline/)
+
+Local-first job-search command center for capturing opportunities, tracking applications, managing follow-ups, organizing resume versions, reviewing red flags, and understanding job-search progress.
+
+Built with React, FastAPI, SQLite, pytest, Vitest, and GitHub Actions. The hosted portfolio demo uses fictional in-memory data, while the complete local application connects to the FastAPI backend and SQLite database.
 
 ### [Site Health Monitor](https://github.com/jawshfn/site-health-monitor)
-Website health monitor with live checks, response history, CI, and a React/FastAPI dashboard.
+
+Full-stack website monitoring application with live URL checks, response-time and DNS details, searchable check history, saved sites, automated tests, and CI.
 
 ### [RBLang](https://github.com/jawshfn/rblang)
-Ruby-like interpreter in Ruby featuring a lexer, recursive-descent parser, AST evaluator, CLI runner, examples, tests, docs, and CI.
+
+Ruby-like interpreter built in Ruby with a lexer, recursive-descent parser, AST evaluator, CLI, example programs, automated tests, documentation, and CI.
 
 ## Current Focus
 
-- Building Career Pipeline into a more complete full-stack product
-- Improving testing, documentation, and deployment workflows
+- Continuing to develop PursuitHQ as a polished, user-focused full-stack product
